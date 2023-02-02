@@ -15,10 +15,6 @@ pipeline{
                 }
             }
         }
-        # stage ('Deploy to tomcat server') {
-
-
-        }
 
     }
 }
